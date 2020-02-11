@@ -7152,7 +7152,7 @@
   
   /* CUSTOM FIX GHE */
   .repohead.experiment-repo-nav {
-    background-color: #fafbfc00 !important;
+    background-color: rgba(24, 24, 24, .4) !important;
   }
   
   .discussion-item-icon, .date:after, ul.color-label-list .color,
