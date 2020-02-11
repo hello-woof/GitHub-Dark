@@ -7149,6 +7149,12 @@
   .rendered_html hr, .drag-and-drop, .form-hr, .release-timeline-tags .main {
     border-color: #343434 !important;
   }
+  
+  /* CUSTOM FIX GHE */
+  .repohead.experiment-repo-nav {
+    background-color: #fafbfc00 !important;
+  }
+  
   .discussion-item-icon, .date:after, ul.color-label-list .color,
   .facebox-header, .TimelineItem-badge,
   .release-timeline-tags .tag-timeline-date:after {
